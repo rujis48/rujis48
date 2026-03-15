@@ -1,2 +1,30 @@
-### Conta de Luis
-Vou atualizar esse README depois...
+<!--Banner-->
+<!-- Inserir aqui -->
+
+
+<!--Header Name-->
+  <h1 align="center"> Hello :wave: I'm Luis Pimentel</h1>
+  <h3 align="center"> - Computer Engineer | Software Developer -</h3>
+  <p align="center"> < Currently learning: <b>CSS, GO, MySQL, LUA </b> > </p> 
+  
+---
+    
+- 🤓 I'm interested in the Cyber Security area and love to learn more about it each day.
+- 🖥️ I have experience in the game development departure 
+- ✈️ I know how to speak in English, Spanish and Portuguese. Currently learning Japanese.
+- 💻 Feel free to take a look at some of my projects at my [github account](https://rujis48.github.io).
+- 💡 Fun facts about me! I like boomer shooters, turn based RPGs, any media portraying cool robots, and skeletons! <img src="https://media.tenor.com/sIpYjSy4xQ0AAAAi/skeleton-sneak.gif" alt="Sneaky Funny Skeleton" width="20">
+
+<h2 align="center">Languages and Tools</h2> 
+<p align="center">
+<img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,css,nodejs,md,git,vscode,docker,linux&perline=10"  />
+</p>
+<br />
+
+<h6 align="left"> Contact me at: </h6>
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=luisfelipe.pimentel.4848@gmail.com" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/luis-carneiro-6b77a4323" alt="LinkedIn"/></a>
+</p>
