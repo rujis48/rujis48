@@ -15,9 +15,11 @@
 - 💻 Feel free to take a look at some of my projects at my [github account](https://rujis48.github.io).
 - 💡 Fun facts about me! I like boomer shooters, turn based RPGs, any media portraying cool robots, and skeletons! <img src="https://media.tenor.com/sIpYjSy4xQ0AAAAi/skeleton-sneak.gif" alt="Sneaky Funny Skeleton" width="20">
 
-<h2 align="center">Languages and Tools</h2> 
+---
+
+<h4 align="center">Languages and Tools</h4> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,css,nodejs,md,git,vscode,docker,linux&perline=10"  />
+<img width="400px"  src="https://skillicons.dev/icons?i=py,java,js,css,nodejs,md,git,vscode,docker,linux&perline=50" />
 </p>
 <br />
 
