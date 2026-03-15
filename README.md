@@ -19,7 +19,7 @@
 
 <h4 align="center">Languages and Tools</h4> 
 <p align="center">
-<img width="400px"  src="https://skillicons.dev/icons?i=py,java,js,css,nodejs,md,git,vscode,docker,linux&perline=50" />
+<img width="400px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,nodejs,md,git,vscode,docker,linux&perline=50" />
 </p>
 <br />
 
