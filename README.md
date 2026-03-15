@@ -13,7 +13,7 @@
 - 🖥️ I have experience in the game development departure 
 - ✈️ I know how to speak in English, Spanish and Portuguese. Currently learning Japanese.
 - 💻 Feel free to take a look at some of my projects at my [github account](https://github.com/rujis48).
-- 💡 Fun facts about me: I like boomer shooters, turn based RPGs, any media portraying cool robots, and skeletons! <img src="https://media.tenor.com/sIpYjSy4xQ0AAAAi/skeleton-sneak.gif" alt="Sneaky Funny Skeleton" width="20">
+- 💡 Fun facts about me: I like boomer shooters, turn based RPGs and any media portraying cool robots/skeletons! <img src="https://media.tenor.com/sIpYjSy4xQ0AAAAi/skeleton-sneak.gif" alt="Sneaky Funny Skeleton" width="20">
 
 ---
 
