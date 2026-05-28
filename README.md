@@ -9,7 +9,7 @@
   
 ---
     
-- 🤓 I'm interested in the Cyber Security area and love to learn more about it each day.
+- 🤓 I'm interested in the Game Development area and love to learn more about it.
 - 🖥️ I have experience in the game development departure.
 - ✈️ I know how to speak in English, Spanish and Portuguese. Currently learning Japanese.
 - 💻 Feel free to take a look at some of my projects at my [github account](https://github.com/rujis48).
